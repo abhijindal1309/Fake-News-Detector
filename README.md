@@ -15,3 +15,7 @@ https://user-images.githubusercontent.com/74375277/142763519-bb16661f-e412-4124-
 ![Screenshot (140)](https://user-images.githubusercontent.com/74375277/142763820-6a71517a-2627-445b-aa4d-b3c2b81d4aea.png)
 ![Screenshot (141)](https://user-images.githubusercontent.com/74375277/142763827-72c51f95-8f35-4d94-9119-e09cad5fd621.png)
 ![Screenshot (142)](https://user-images.githubusercontent.com/74375277/142763832-96a4a2ab-9c2e-4ebb-9c80-b6802e051239.png)
+
+# Methodology
+![Fake News](https://user-images.githubusercontent.com/74375277/142763930-2c375be3-39a5-4a08-a5dd-cf63238ebe23.png)
+
