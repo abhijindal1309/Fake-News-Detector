@@ -8,6 +8,5 @@ What things were used in this project.
 - Simple HTML+CSS for the frontend of the site.
 
 ## Working Demo
-https://user-images.githubusercontent.com/74375277/142763472-c94b3220-5d1c-4f61-aab9-e5ec7f37f53a.mp4
-
+https://user-images.githubusercontent.com/74375277/142763519-bb16661f-e412-4124-bce7-057ed7992a85.mp4
 
