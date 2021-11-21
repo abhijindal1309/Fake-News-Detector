@@ -20,4 +20,4 @@ https://user-images.githubusercontent.com/74375277/142763519-bb16661f-e412-4124-
 ![Fake News](https://user-images.githubusercontent.com/74375277/142763930-2c375be3-39a5-4a08-a5dd-cf63238ebe23.png)
 
 ## Conclusion
-Aim of the objective is to evaluate the news and classify them accordingly which includes qualitative analysis of fake news as well as detection and intervention strategies for fake news from different perspectives: the false knowledge fake news communicates, its propagation patterns and its credibility, main fake news characteristics that allow distinguishing it from other concepts, intervention of fake news on social media that hurts religious sentiments of people
+Aim of the objective is to evaluate the news and classify them accordingly which includes qualitative analysis of fake news as well as detection and intervention strategies for fake news from different perspectives: the false knowledge fake news communicates, its propagation patterns and its credibility, main fake news characteristics that allow distinguishing it from other concepts, intervention of fake news on social media that hurts religious sentiments of people.
